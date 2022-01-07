@@ -1,0 +1,13 @@
+*** Web Dev Practice Module & Repo Index ***
+
+Module-6
+6-1     HTML5, audio, video, youtube video, embed iframe
+6-2     HTML5 semantic tags, section, article, header, footer, main
+6-3     HTML table, table head, table row, table data
+6-4     HTML input, label, fieldset, legend, textarea
+6-5     Simple navbar and internal navigation among files
+6-6     Add nested menu, dropdown option on mouse hover
+6-7     (Advanced) Explore SVG, create a svg smiley face
+6-8     All html tags, everything you need to know about html
+6-9     All html attributes, title attribute, comments, alt, data
+6-10    HTML5 Module Summary
