@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add nested menu, dropdown option on mouse hover</title>
+    <style>
+        nav > ul{
+            display: flex;
+        }
+        nav li{
+            list-style: none;
+            margin-right: 10px;
+        }
+        nav li a{
+            text-decoration: none;
+            color: black;
+        }
+        nav li:hover{
+            background-color: lightgray;
+        }
+        .dropdown{
+            display: none;
+            position: absolute;
+            background-color: lightyellow;
+            padding: 0;
+            margin: 0;
+        }
+        nav > ul > li:hover > ul{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="6-4.html">Click here to go to Form</a>
+        <nav>
+            <ul>
+                <li><a href="">Menu1</a></li>
+                <li><a href="">Menu2</a></li>
+                <li><a href="">Menu3
+                    <ul class="dropdown">
+                        <li><a href="">Sub-menu</a></li>
+                        <li><a href="">Sub-menu</a></li>
+                        <li><a href="">Sub-menu</a></li>
+                        <li><a href="">Sub-menu</a></li>
+                        <li><a href="">Sub-menu</a></li>
+                    </ul>
+                </a></li>
+                <li><a href="">Menu4</a></li>
+                <li><a href="">Menu5</a></li>
+            </ul>
+        </nav>
+        <h3>Here goes text after menu</h3>
+    </header>
+</body>
+</html>
