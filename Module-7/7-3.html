@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module-7 file 7-3</title>
+    <style>
+        img{
+            width: 200px;
+            height: 150px;
+        }
+        .div-bg{
+            background-color: darkcyan;
+            width: 400px;
+            height: 300px;
+        }
+        .div-bg img{
+            width: 200px;
+            height: 200px;
+            border: 3px solid tomato;
+        }
+    </style>
+</head>
+<body>
+    <h1>Optimize images, types of images, svg, png, jpg, Sprite</h1>
+    <h3>This high resolution image takes around 3.5 MB data to load</h3>
+    <img src="../resources/high-size.jpg" alt="">
+    <h3><br><br>This low resolution image takes only 800 KB data to load</h3>
+    <img src="../resources/low-size.jpg" alt="">
+    <h3>This is svg image. this image won't blur if zoom in or out is made</h3>
+    <img src="../resources/svg-image.svg" alt="">
+    <div class="div-bg">
+        <h3>This is png image. png format used for transparent background</h3>
+        <img src="../resources/person.png" alt="">
+    </div>
+    <div class="div-bg">
+        <h3>This is jpg image. jpg format have white background in transparent areas.</h3>
+        <img src="../resources/person.jpg" alt="">
+    </div>
+</body>
+</html>

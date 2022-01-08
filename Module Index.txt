@@ -14,8 +14,8 @@ Module-6
 
 Module-7
 7-1     CSS3 Module Introduction visibility hidden vs display none
-7-2     
-7-3     
+7-2     CSS Overflow visible, hidden, scroll, text-overflow, ellipsis
+7-3     Optimize images, types of images, svg, png, jpg, Sprite
 7-4     
 7-5     
 7-6     
