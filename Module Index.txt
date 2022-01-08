@@ -16,8 +16,8 @@ Module-7
 7-1     CSS3 Module Introduction visibility hidden vs display none
 7-2     CSS Overflow visible, hidden, scroll, text-overflow, ellipsis
 7-3     Optimize images, types of images, svg, png, jpg, Sprite
-7-4     
-7-5     
+7-4     Add icons using font awesome and create social links
+7-5     Transform element using rotate scale translate
 7-6     
 7-7     
 7-8     
