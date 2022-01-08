@@ -11,3 +11,15 @@ Module-6
 6-8     All html tags, everything you need to know about html
 6-9     All html attributes, title attribute, comments, alt, data
 6-10    HTML5 Module Summary
+
+Module-7
+7-1     CSS3 Module Introduction visibility hidden vs display none
+7-2     
+7-3     
+7-4     
+7-5     
+7-6     
+7-7     
+7-8     
+7-9     
+7-10    
