@@ -21,5 +21,5 @@ Module-7
 7-6     Introduction to CSS animation Transition
 7-7     Cricket match animation using transition and transform
 7-8     (Advanced) Css animation and bounce effect with balls
-7-9     
+7-9     Float left, float right, min-height, max-height, cursor
 7-10    
