@@ -19,7 +19,7 @@ Module-7
 7-4     Add icons using font awesome and create social links
 7-5     Transform element using rotate scale translate
 7-6     Introduction to CSS animation Transition
-7-7     
+7-7     Cricket match animation using transition and transform
 7-8     
 7-9     
 7-10    
