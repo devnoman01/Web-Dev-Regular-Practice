@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css animation and bounce effect with balls</title>
+    <style>
+        @keyframes sliding{
+            0%{
+                background-color: limegreen;
+                left: 0px;
+                top: 0px;
+            }
+            25%{
+                background-color: mediumslateblue;
+                left: 400px;
+                top: 0px;
+            }
+            50%{
+                background-color: limegreen;
+                left: 400px;
+                top: 200px;
+            }
+            75%{
+                background-color: mediumslateblue;
+                left: 0px;
+                top: 200px;
+            }
+            100%{
+                background-color: limegreen;
+                left: 0px;
+                top: 0px;
+            }
+        }
+        .stage{
+            width: 500px;
+            height: 300px;
+            background-color: lightskyblue;
+        }
+        .ball{
+            width: 100px;
+            height: 100px;
+            background-color: green;
+            border-radius: 50%;
+            position: relative;
+            animation: sliding 4s ease-in-out 0.5s infinite alternate;
+        }
+    </style>
+</head>
+<body>
+    <h1>Css animation and bounce effect with balls</h1>
+    <div class="stage">
+        <div class="ball"></div>
+    </div>
+</body>
+</html>
