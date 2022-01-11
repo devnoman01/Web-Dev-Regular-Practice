@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module-8 file 8-3</title>
+    <script src="http://kit.fontawesome.com/f9bdb0c80c.js" crossorigin="anonymous"></script>
+    <style>
+        .login-container{
+            display: flex;
+            justify-content: center;
+        }
+        .login-form{
+            display: flex;
+            flex-direction: column;
+        }
+        .login-form input, button{
+            font-size: 1.3em;
+            margin-top: 15px;
+            border: 1px solid lightgray;
+            border-radius: 5px;
+            padding-left: 5px;
+        }
+        .login-form button{
+            font-weight: 700;
+            background-color: orangered;
+            color: whitesmoke;
+            border: 0;
+            padding-top: 3px;
+            padding-bottom: 3px;
+        }
+        nav{
+            display: flex;
+            justify-content: space-between;
+        }
+        nav a{
+            text-decoration: none;
+            color: black;
+            font-size: 1.5em;
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <span>
+                <a href="">Home</a>
+                <a href="">Products</a>
+                <a href="">Orders</a>
+                <a href="">About Us</a>
+            </span>
+            <span>
+                <a href="">
+                    <i class="fas fa-user"></i>
+                </a>
+                <a>
+                    <i class="fas fa-sign-out-alt"></i>
+                </a>
+            </span>
+        </nav>
+    </header>
+    <h1>Create login form and flexible nav using flexbox</h1>
+    <section class="login-container">
+        <form action="" class="login-form">
+            <h2>Login</h2>
+            <input type="email" name="email" placeholder="Enter email" id="" required>
+            <input type="password" name="password" placeholder="Enter password" id="" required>
+            <button type="submit">Login</button>
+        </form>
+    </section>
+</body>
+</html>
