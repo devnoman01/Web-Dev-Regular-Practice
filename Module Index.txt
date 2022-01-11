@@ -29,7 +29,7 @@ Module-8
 8-3     Create login form and flexible nav using flexbox
 8-4     CSS Grid layout template columns grid gap
 8-5     Create calendar using css grid and flex box
-8-6     
+8-6     Explore Responsiveness using Media query and flexbox
 8-7     
 8-8     
 8-9     
