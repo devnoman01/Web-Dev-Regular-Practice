@@ -31,5 +31,5 @@ Module-8
 8-5     Create calendar using css grid and flex box
 8-6     Explore Responsiveness using Media query and flexbox
 8-7     Create a Photo Album using relative position and flexbox
-8-8     
+8-8     Apply transition transform in your photo album
 8-9     
