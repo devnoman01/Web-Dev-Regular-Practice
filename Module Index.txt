@@ -22,4 +22,14 @@ Module-7
 7-7     Cricket match animation using transition and transform
 7-8     (Advanced) Css animation and bounce effect with balls
 7-9     Float left, float right, min-height, max-height, cursor
-7-10    
+
+Module-8
+8-1     Module Introduction and website layout
+8-2     
+8-3     
+8-4     
+8-5     
+8-6     
+8-7     
+8-8     
+8-9     
