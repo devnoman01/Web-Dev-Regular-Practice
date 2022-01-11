@@ -27,7 +27,7 @@ Module-8
 8-1     Module Introduction and website layout
 8-2     Flexbox, flex direction justify content align items
 8-3     Create login form and flexible nav using flexbox
-8-4     
+8-4     CSS Grid layout template columns grid gap
 8-5     
 8-6     
 8-7     
