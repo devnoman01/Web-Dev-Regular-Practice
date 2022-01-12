@@ -47,3 +47,15 @@ Module-9
 9-8     Add all courses and set grid layout for three columns
 9-9     Set Media query to display blog in mobile devices
 9-10    Plain HTML5 and CSS3 website Module summary
+
+Module-10
+10-1    Introduction to UI UX, Different layout with example websites
+10-2    Rules to follow as best practice while designing a website
+10-3    
+10-4    
+10-5    
+10-6    
+10-7    
+10-8    
+10-9    
+10-2    
