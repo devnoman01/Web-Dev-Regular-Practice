@@ -55,7 +55,7 @@ Module-10
 10-4    Design Resources, figma edit and design secrets
 10-5    CSS specificity, style priority and !important
 10-6    (advanced) CSS Custom property and use var, calc
-10-7    
-10-8    
+10-7    CSS debugging using chrome devtool Elements tab
+10-8    (Optional) Create a simple mega menu using HTML and CSS
 10-9    
 10-2    
