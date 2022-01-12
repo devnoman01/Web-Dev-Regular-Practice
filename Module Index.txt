@@ -51,10 +51,10 @@ Module-9
 Module-10
 10-1    Introduction to UI UX, Different layout with example websites
 10-2    Rules to follow as best practice while designing a website
-10-3    
-10-4    
-10-5    
-10-6    
+10-3    Five things to avoid for a good website design
+10-4    Design Resources, figma edit and design secrets
+10-5    CSS specificity, style priority and !important
+10-6    (advanced) CSS Custom property and use var, calc
 10-7    
 10-8    
 10-9    
