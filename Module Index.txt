@@ -22,6 +22,7 @@ Module-7
 7-7     Cricket match animation using transition and transform
 7-8     (Advanced) Css animation and bounce effect with balls
 7-9     Float left, float right, min-height, max-height, cursor
+7-10    Module Summary
 
 Module-8
 8-1     Module Introduction and website layout
@@ -32,4 +33,17 @@ Module-8
 8-6     Explore Responsiveness using Media query and flexbox
 8-7     Create a Photo Album using relative position and flexbox
 8-8     Apply transition transform in your photo album
-8-9     
+8-9     All CSS properties, everything you need to know about CSS
+8-10    Responsive CSS Layout Summary
+
+Module-9
+9-1     Module Introduction and Project resources
+9-2     Use grid and flex layout to align the players
+9-3     Extract style information from figma and apply to players
+9-4     Style debug to fix style, add horizontal line break
+9-5     Create one blog using flex layout and style adjustment
+9-6     Add multiple blogs and use grid layout to get two columns
+9-7     Create Single course and use font awesome ratings
+9-8     Add all courses and set grid layout for three columns
+9-9     Set Media query to display blog in mobile devices
+9-10    Plain HTML5 and CSS3 website Module summary
