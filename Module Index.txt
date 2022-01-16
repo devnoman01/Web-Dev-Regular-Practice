@@ -83,4 +83,4 @@ Module-12
 12-6    Create a image slider, carousel using bootstrap
 12-7    Website card, card design, card image, card group
 12-8    Button, button group, spinner, tooltips, scrollspy, toasts
-12-9     
+12-9    Module Summary Nav tag, navigation, fixed navbar 
