@@ -80,7 +80,7 @@ Module-12
 12-3    Explore borders, colors, overflow and positions
 12-4    Try bootstrap shadow, margin, padding, width, height
 12-5    Responsive image, image thumbnail, table, striped table
-12-6    
+12-6    Create a image slider, carousel using bootstrap
 12-7    
 12-8    
 12-9    
