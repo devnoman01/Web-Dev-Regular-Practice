@@ -82,6 +82,5 @@ Module-12
 12-5    Responsive image, image thumbnail, table, striped table
 12-6    Create a image slider, carousel using bootstrap
 12-7    Website card, card design, card image, card group
-12-8    
-12-9    
-12-10    
+12-8    Button, button group, spinner, tooltips, scrollspy, toasts
+12-9     
