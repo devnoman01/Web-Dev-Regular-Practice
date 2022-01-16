@@ -78,7 +78,7 @@ Module-12
 12-1    Getting started with bootstrap
 12-2    Insider view of Bootstrap and use background classes
 12-3    Explore borders, colors, overflow and positions
-12-4    
+12-4    Try bootstrap shadow, margin, padding, width, height
 12-5    
 12-6    
 12-7    
