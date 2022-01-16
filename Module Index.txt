@@ -72,3 +72,16 @@ Module-11.5
 11.5-2  Check out relative and absolute position one more time
 11.5-3  Explore media query one more time
 11.5-4  Easier way to create CSS animation using animate css
+11.5-5  (Special) Join conceptual session and concept clear session
+
+Module-12
+12-1    Getting started with bootstrap
+12-2    
+12-3    
+12-4    
+12-5    
+12-6    
+12-7    
+12-8    
+12-9    
+12-10    
