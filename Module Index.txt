@@ -79,7 +79,7 @@ Module-12
 12-2    Insider view of Bootstrap and use background classes
 12-3    Explore borders, colors, overflow and positions
 12-4    Try bootstrap shadow, margin, padding, width, height
-12-5    
+12-5    Responsive image, image thumbnail, table, striped table
 12-6    
 12-7    
 12-8    
