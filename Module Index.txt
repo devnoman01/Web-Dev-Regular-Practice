@@ -57,5 +57,15 @@ Module-10
 10-6    (advanced) CSS Custom property and use var, calc
 10-7    CSS debugging using chrome devtool Elements tab
 10-8    (Optional) Create a simple mega menu using HTML and CSS
-10-9    
-10-2    
+10-9    Advanced selectors, airbnb css style guides, BEM
+10-10   Your Future strategy for HTML(HTML5) and CSS(CSS3)
+
+Module-10.5
+10.5-1  HTML5 and CSS3 Revision and Responsive Practice Day
+
+Module-11
+11-1    Assignment submission related common mistakes
+11-2    Create a Responsive Influencer Gear as assignment
+
+Module-11.5
+11.5-1  Review flexbox and grid for one more time
