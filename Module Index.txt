@@ -92,7 +92,7 @@ Module-13
 13-4    Flex layout, justify content, align items, horizontal center
 13-5    Bootstrap responsive Container and breakpoints
 13-6    Grid System with 12 column layout, responsive grid
-13-7
+13-7    Responsive players using bootstrap grid columns
 13-8
 13-9
 13-10
