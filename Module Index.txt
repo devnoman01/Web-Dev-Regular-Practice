@@ -84,3 +84,15 @@ Module-12
 12-7    Website card, card design, card image, card group
 12-8    Button, button group, spinner, tooltips, scrollspy, toasts
 12-9    Module Summary Nav tag, navigation, fixed navbar 
+
+Module-13
+13-1    Module Introduction and Recap
+13-2
+13-3
+13-4
+13-5
+13-6
+13-7
+13-8
+13-9
+13-10
