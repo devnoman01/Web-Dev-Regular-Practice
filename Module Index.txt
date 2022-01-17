@@ -87,7 +87,7 @@ Module-12
 
 Module-13
 13-1    Module Introduction and Recap
-13-2
+13-2    Create Form with Floating label and form validation
 13-3
 13-4
 13-5
