@@ -96,6 +96,16 @@ Module-13
 13-8    Another Responsive example for bags and jackets cards
 13-9    Navbar again, Bootstrap Overview, Module Summary
 
+Module-13.5
+13.5-1  When to use bootstrap and when to use vanilla css
+13.5-2  Create a navbar with proper alignment using bootstrap
+13.5-3  Create a responsive grid with gutters and spacing
+13.5-4  Apply nesting rows for responsive top blogs
+13.5-5  Write bootstrap summary and css measuring unit
+
+Module-13.6
+13.6-1  Explore bootstrap docs, revise css and optional challenge
+
 Module-14
 14-1    Panda commerce overview and project setup
 14-2    Container, set navbar, set navbar logo image
@@ -106,3 +116,5 @@ Module-14
 14-7    Override default bootstrap style using custom CSS
 14-8    Have fun deploying to Netlify via drag and drop
 14-9    Module summary, Code Recap, extra practice
+
+Module-15
