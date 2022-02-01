@@ -137,7 +137,7 @@ Module-16
 16-1   Convention Center responsive landing page assignment
 
 Module-16.5
-16.5-1  
+16.5-1  Create a three column multiple rows layout
 16.5-2  
 16.5-3  
 16.5-4  
