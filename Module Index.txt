@@ -139,6 +139,6 @@ Module-16
 Module-16.5
 16.5-1  Create a three column multiple rows layout
 16.5-2  Nested row and column layout with no gutter
-16.5-3  
+16.5-3  Practical use of pseudo element before and after
 16.5-4  
 16.5-5  
