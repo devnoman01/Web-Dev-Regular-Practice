@@ -146,3 +146,6 @@ Module-16.5
 
 Module-17
 17-1    Introduction to JavaScript, Run JavaScript in VSCode
+17-2    What is variable, five things you need to declare a variable
+17-3    Variable type, Numeric, String, Boolean
+17-4    JavaScript Keyword, Variable name naming convention and best practice
