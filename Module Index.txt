@@ -122,9 +122,23 @@ Module-15
 15-2    Compare Tailwind classes with bootstrap classes
 15-3    Tailwind Flexbox and compare with bootstrap
 15-4    Explore Tailwind grid with row and column span
-15-5    
-15-6    
-15-7    
-15-8    
-15-9    
-15-10
+15-5    Penguin fashion overview and tailwind extension setup
+15-6    Apply header with custom button and svg hero icons
+15-7    Make header responsive, and set custom color
+15-8    Setup custom card and card grid using tailwind css
+15-9    Responsive grid and custom grid layout
+15-10   How to select Right CSS framework for your project
+
+Module-15.5
+15.5-1  Create private repository and deploy to netlify for assignment
+15.5-2  Practice Nike React using bootstrap in private repo
+ 
+Module-16
+16-1   Convention Center responsive landing page assignment
+
+Module-16.5
+16.5-1  Create a three column multiple rows layout
+16.5-2  
+16.5-3  
+16.5-4  
+16.5-5  
