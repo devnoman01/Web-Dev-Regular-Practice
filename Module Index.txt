@@ -151,3 +151,5 @@ Module-17
 17-4    JavaScript Keyword, Variable name naming convention and best practice
 17-5    Simple Mathematical operations in JavaScript
 17-6    (advanced) Mathematical operation shorthand
+17-7    (advanced) String Concatenation, Integer float parseInt parseFloat type conversion
+17-8    Different variable types and use toFixed with parseFloat
