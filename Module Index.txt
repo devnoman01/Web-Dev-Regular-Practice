@@ -150,3 +150,4 @@ Module-17
 17-3    Variable type, Numeric, String, Boolean
 17-4    JavaScript Keyword, Variable name naming convention and best practice
 17-5    Simple Mathematical operations in JavaScript
+17-6    (advanced) Mathematical operation shorthand
