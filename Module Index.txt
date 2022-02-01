@@ -140,5 +140,9 @@ Module-16.5
 16.5-1  Create a three column multiple rows layout
 16.5-2  Nested row and column layout with no gutter
 16.5-3  Practical use of pseudo element before and after
-16.5-4  
-16.5-5  
+16.5-4  How to debug CSS and HTML using devtool
+16.5-5  Run Javascript in Visual Studio Code to get ready
+16.5-6  Be determined to get best out of our course
+
+Module-17
+17-1    Introduction to JavaScript, Run JavaScript in VSCode
