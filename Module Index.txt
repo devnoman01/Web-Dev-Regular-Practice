@@ -153,3 +153,4 @@ Module-17
 17-6    (advanced) Mathematical operation shorthand
 17-7    (advanced) String Concatenation, Integer float parseInt parseFloat type conversion
 17-8    Different variable types and use toFixed with parseFloat
+17-9    Module Summary and remainder modulus
