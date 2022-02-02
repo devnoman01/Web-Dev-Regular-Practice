@@ -171,4 +171,5 @@ Module 18.5
 18.5-2  While loop, debug and understand while loop
 18.5-3  More while loops, odd numbers, even numbers
 18.5-4  For loop, how for loop works, while vs for loop
-18.5-5  
+18.5-5  Recap loop, run a loop for each element of an array
+
