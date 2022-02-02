@@ -165,3 +165,10 @@ Module-18
 18-7    Handle multiple conditions, and or
 18-8    (advanced) Multi stage condition and nested conditions
 18-9    Module summary and two more comparisons
+
+Module 18.5
+18.5-1  Variable array and conditionals revision
+18.5-2  
+18.5-3  
+18.5-4  
+18.5-5  
