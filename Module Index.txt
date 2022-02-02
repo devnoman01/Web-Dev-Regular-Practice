@@ -163,5 +163,5 @@ Module-18
 18-5    Compare variables and Comparison operator
 18-6    Make conditional decision, if-else, comparison
 18-7    Handle multiple conditions, and or
-18-8    
+18-8    (advanced) Multi stage condition and nested conditions
 18-9    
