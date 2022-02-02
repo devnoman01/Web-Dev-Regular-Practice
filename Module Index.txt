@@ -162,6 +162,6 @@ Module-18
 18-4    Add or remove element from array using push, pop
 18-5    Compare variables and Comparison operator
 18-6    Make conditional decision, if-else, comparison
-18-7    
+18-7    Handle multiple conditions, and or
 18-8    
 18-9    
