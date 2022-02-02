@@ -176,3 +176,4 @@ Module 18.5
 Module 19
 19-1    Module Introduction and concept Recap
 19-2    Declare a Function, call function, function vs loop
+19-3    (advanced) Function parameter, function return
