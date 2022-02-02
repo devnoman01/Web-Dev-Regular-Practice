@@ -160,7 +160,7 @@ Module-18
 18-2    Declare Array, array length and array index
 18-3    Array index, get and set by index, indexOf
 18-4    Add or remove element from array using push, pop
-18-5    
+18-5    Compare variables and Comparison operator
 18-6    
 18-7    
 18-8    
