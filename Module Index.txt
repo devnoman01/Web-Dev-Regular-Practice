@@ -157,7 +157,7 @@ Module-17
 
 Module-18
 18-1    Module Introduction and Variable recap
-18-2    
+18-2    Declare Array, array length and array index
 18-3    
 18-4    
 18-5    
