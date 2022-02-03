@@ -183,3 +183,6 @@ Module 19
 19-7    (optional) Javascript switch case break and default
 19-8    (advanced) while and for loop break and continue
 19-9    Module summary and JS recap
+
+Module 20
+20-1    Module Introduction Apply JS and let, const
