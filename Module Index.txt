@@ -179,3 +179,4 @@ Module 19
 19-3    (advanced) Function parameter, function return
 19-4    (advanced) Multiple parameter add, multiplication, etc
 19-5    Declare multiple objects with multiple properties
+19-6    multiple ways to get and set object property
