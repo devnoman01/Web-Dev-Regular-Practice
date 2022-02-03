@@ -196,3 +196,8 @@ Module 20
 
 Module 20.5
 20.5-1  Javascript concepts and apply revision with four challenges
+20.5-2  Farenheit to celcius conversion
+20.5-3  Interest rate calculation
+
+Module 21
+21-1    Module Introduction, Math and Random number
