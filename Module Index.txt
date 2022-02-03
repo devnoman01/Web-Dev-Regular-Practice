@@ -182,3 +182,4 @@ Module 19
 19-6    multiple ways to get and set object property
 19-7    (optional) Javascript switch case break and default
 19-8    (advanced) while and for loop break and continue
+19-9    Module summary and JS recap
