@@ -189,3 +189,4 @@ Module 20
 20-2    Unit Convert Inch to Feet, miles to kilometer
 20-3    Check even and odd number using function
 20-4    Check whether a year is a Leap Year or not
+20-5    Calculate Factorial of a number using for loop
