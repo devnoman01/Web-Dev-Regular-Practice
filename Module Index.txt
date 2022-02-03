@@ -192,3 +192,7 @@ Module 20
 20-5    Calculate Factorial of a number using for loop
 20-6    Recalculate factorial multiple times using a function
 20-7    Factorial using a while loop or a decrementing loop
+20-8    Module Summary and Simple JavaScript debug
+
+Module 20.5
+20.5-1  Javascript concepts and apply revision with four challenges
