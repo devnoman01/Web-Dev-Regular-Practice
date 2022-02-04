@@ -16,8 +16,7 @@ function animalCount(miles) {
     }
     else{
         const firstDense = 10 * animalAtFirst10;
-        const restMiles = 10;
-        const secondDense = restMiles * animalAfter10Miles;
+        const secondDense = 10 * animalAfter10Miles;
         const restMiles20 = miles - 20;
         const thirdDense = restMiles20 * animalAfter20Miles;
         totalAnimal = firstDense + secondDense + thirdDense;
