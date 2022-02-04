@@ -210,3 +210,4 @@ Module 21
 
 Module 22
 22-1    Introduction and increase problem solving ability
+22-2    Remove duplicate items from an array
