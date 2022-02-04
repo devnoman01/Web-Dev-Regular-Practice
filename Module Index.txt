@@ -218,3 +218,5 @@ Module 22
 22-7    Find the cheapest phone from an array of phone objects
 22-8    Calculate the total cost of the products in a shopping cart
 22-9    Traveling in a Jungle and counting wild animals
+22-10   Module Summary and important of problem solving
+
