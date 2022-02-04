@@ -216,3 +216,4 @@ Module 22
 22-5    Use add and multiplication to calculate wood requirements
 22-6    Write foo, bar, foobar if divisible by 3 or 5 or both
 22-7    Find the cheapest phone from an array of phone objects
+22-8    Calculate the total cost of the products in a shopping cart
