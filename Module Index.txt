@@ -214,3 +214,4 @@ Module 22
 22-3    Explore string nature and reverse a string
 22-4    Handle unexpected function input parameter error
 22-5    Use add and multiplication to calculate wood requirements
+22-6    Write foo, bar, foobar if divisible by 3 or 5 or both
