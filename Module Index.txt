@@ -203,3 +203,4 @@ Module 21
 21-1    Module Introduction, Math and Random number
 21-2    Swap variable, swap without temp, destructing
 21-3    Find max of two values, find max of three values
+21-4    Sum of all numbers in an array
