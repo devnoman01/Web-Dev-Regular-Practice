@@ -207,3 +207,6 @@ Module 21
 21-5    Find the largest element of an array
 21-6    Create a Fibonacci Series using a for loop
 21-7    Handle unexpected input using simple return
+
+Module 22
+22-1    Introduction and increase problem solving ability
