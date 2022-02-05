@@ -54,3 +54,7 @@ function oddFriend(friendNames){
         return "Input must be an array.";
     }
 }
+
+let names = ['Arif', 'Rafi', 'Taamim', 'Tuhin', 'Setu', 'Mahi'];
+const oddLenghtName = oddFriend(names);
+console.log(oddLenghtName);
