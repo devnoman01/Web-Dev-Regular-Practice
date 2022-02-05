@@ -19,3 +19,7 @@ function anaToVori(ana) {
         return "Enter number value as input";
     }
 }
+
+var anaValue = 32;
+var voriValue = anaToVori(anaValue);
+console.log(voriValue);
