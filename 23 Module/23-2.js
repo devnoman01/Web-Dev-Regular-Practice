@@ -29,3 +29,6 @@ function pandaCost(singaraQty, samusaQty, jilapiQty){
         return "Enter number value for items quantity";
     }
 }
+
+var total = pandaCost(10,10,10);
+console.log(total);
