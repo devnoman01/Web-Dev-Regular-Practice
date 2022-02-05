@@ -42,3 +42,7 @@ function picnicBudget(person){
         return "Enter number value for person number";
     }
 }
+
+let attendingPerson = 220;
+const totalBudget = picnicBudget(attendingPerson);
+console.log(totalBudget);
