@@ -1,0 +1,10 @@
+body{
+    background-color: lightcyan;
+    color: green;
+}
+article{
+    width: 50%;
+    margin: 20px 0px;
+    padding: 1rem;
+    border: 3px dashed green;
+}
