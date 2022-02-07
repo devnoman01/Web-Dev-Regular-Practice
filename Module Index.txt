@@ -229,3 +229,5 @@ Module 23
 
 Module 23.5
 23.5-1  Understand for loop in a forward and reverse way
+23.5-2  Understand recursion using sum of numbers
+
