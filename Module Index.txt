@@ -242,3 +242,5 @@ Module 24
 24-5    Capture and change Element by using getElementById
 24-6    Explore getElementsByClassName and querySelectorAll
 24-7    NodeList, htmlcollection, setAttribute, parentNode, childnodes
+24-8    Create HTML elements using Javascript and appendChild
+
