@@ -234,3 +234,5 @@ Module 23.5
 23.5-4  (advanced) Find the matching product by searching products
 23.5-5  Explore break and continue for selecting some products
 
+Module 24
+24-1    Module Introduction and what is JavaScript
