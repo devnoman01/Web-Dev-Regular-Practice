@@ -224,3 +224,8 @@ Module 23
 23-1    ana to vori conversion program
 23-2    fastfood buying cost calculation
 23-3    picnic budget calculation
+23-4    oddName find in array
+23-5    all four programs
+
+Module 23.5
+23.5-1  Understand for loop in a forward and reverse way
