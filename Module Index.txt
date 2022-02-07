@@ -237,3 +237,4 @@ Module 23.5
 Module 24
 24-1    Module Introduction and what is JavaScript
 24-2    Create Script tag and connect external Script file
+24-3    What is DOM (Document Object Model)
