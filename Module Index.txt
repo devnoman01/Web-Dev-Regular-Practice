@@ -247,4 +247,5 @@ Module 24
 
 Module 25
 25-1    What is Event, different types of event in web
+25-2    Add onclick handler directly or via javascript
 
