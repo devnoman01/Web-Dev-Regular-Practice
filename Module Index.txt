@@ -243,4 +243,8 @@ Module 24
 24-6    Explore getElementsByClassName and querySelectorAll
 24-7    NodeList, htmlcollection, setAttribute, parentNode, childnodes
 24-8    Create HTML elements using Javascript and appendChild
+24-9    Module summary and DOM Review
+
+Module 25
+25-1    What is Event, different types of event in web
 
