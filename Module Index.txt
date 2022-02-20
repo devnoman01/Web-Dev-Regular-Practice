@@ -255,3 +255,6 @@ Module 25
 25-7    (semi-advanced) Event bubble and Stop propagating
 25-8    (advanced) Event delegate and benefit of Event bubble
 25-9    DOM events summary and home work
+
+Module 26
+26-1    Project overview, Tailwind review text align text color
