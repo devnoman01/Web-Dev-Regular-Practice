@@ -267,3 +267,13 @@ Module 26
 26-8    Money withdraw and reduce balance for withdraw
 26-9    Module Summary and Overall Project Overview
 
+Module 27
+27-1    Module overview and project setup
+27-2    Get User deposit and set deposit total value
+27-3    Update deposit and balance and handle string add
+27-4    Money withdraw and reduce balance for withdraw
+27-5    (advanced) Common function to reduce code repeat
+27-6    (advanced) Share one function between two input field
+27-7    (advanced) Deposit and withdraw update with one function
+27-8    (advanced) Shared Balance update function
+27-9    (advanced) Nested function and error handling
