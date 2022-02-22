@@ -280,3 +280,13 @@ Module 27
 
 Module 27.5
 27.5-1    DOM manipulation checklist and a practice challenge
+
+Module 28
+28-1    Module Overview and shopping cart increase case count
+28-2    Shopping cart handle decrease and update price
+28-3    Calculate phone cost using the same shared function
+28-4    Get all product sub total cost, tax and grand total
+28-5    Pin matcher overview, Generate pin and display it
+28-6    Use event bubble to create calculator and clear
+28-7    Verify match and use function to reduce duplicate
+28-8    Pin Matcher overview and daily challenge
