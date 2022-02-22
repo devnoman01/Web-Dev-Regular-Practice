@@ -277,3 +277,6 @@ Module 27
 27-7    (advanced) Deposit and withdraw update with one function
 27-8    (advanced) Shared Balance update function
 27-9    (advanced) Nested function and error handling
+
+Module 27.5
+27.5-1    DOM manipulation checklist and a practice challenge
