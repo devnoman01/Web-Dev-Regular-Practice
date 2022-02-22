@@ -293,3 +293,4 @@ Module 28
 
 Module 29
 29-1    String comparison using toLowerCase toUpperCase
+29-2    Apply Search includes, indexOf, startswith, endswith
