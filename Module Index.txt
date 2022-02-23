@@ -296,3 +296,4 @@ Module 29
 29-2    Apply Search includes, indexOf, startswith, endswith
 29-3    How to split, slice, substr, substring, concat, join
 29-4    Check an Array using isArray, indexOf, includes, concat
+29-5    Get part of an array and insert elements using slice, splice
