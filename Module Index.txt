@@ -299,3 +299,4 @@ Module 29
 29-5    Get part of an array and insert elements using slice, splice
 29-6    Have fun with sort and reverse a javascript array
 29-7    Unlimited parameters to a function using arguments
+29-8    Different types of Error object and explore Try-catch
