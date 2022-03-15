@@ -1,0 +1,20 @@
+.countries{
+    margin: 5% 10%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 25px;
+}
+.country{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 0px 15px 10px 15px;
+    display: inline-block;
+    
+}
+.country h2{
+    text-align: center;
+}
+
+.country img{
+    width: 100%;   
+}

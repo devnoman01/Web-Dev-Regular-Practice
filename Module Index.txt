@@ -301,3 +301,21 @@ Module 29
 29-7    Unlimited parameters to a function using arguments
 29-8    Different types of Error object and explore Try-catch
 29-9 A  simple introduction to Date object in JavaScript
+
+Module 29.5
+29_5-1  Practice and review integrate Javascript with checklist
+
+
+
+
+Module 44 Modern Front-end core concepts
+44-0	Milestone Overview
+44-1	Module overview and modern application core parts
+44-2	Web component, 4 type of component, identify component
+44-3	Template, dynamically create HTML elements based on data
+44-4	Single Page Application (SPA), Performance benefit
+44-5	Routing, Route parameter, Routing in React
+44-6	Explore destructuring and send data to html elements using props
+44-7	Website state, state management, purpose of state
+44-8    Install React App and explore folder structure and edit
+44-9    Module Summary and concept recap
