@@ -319,3 +319,15 @@ Module 44 Modern Front-end core concepts
 44-7	Website state, state management, purpose of state
 44-8    Install React App and explore folder structure and edit
 44-9    Module Summary and concept recap
+
+
+Module 45 React Core Concepts, JSX, props, state
+45-1    Module Introduction, Create React App, 6 core concepts
+45-2    JSX, Dynamic content, Dynamic Style in React
+45-3    Create Component, return HTML from a component
+45-4    Pass dynamic data to components, props in react
+45-5    (advanced) Create multiple components from an array of objects
+45-6    
+45-7    
+45-8    
+45-9    
