@@ -1,10 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 
+const players = ["Tamim Iqbal", "Soummo Sarkar", "Mashrafi Bin Mortuza", "Sakib Al Hasan", "Mushfiqur Rahim"];
+
 const signers = [
   {name:"Tahsan Khan", song: "Alo Alo"},
   {name:"Minar Rahman", song: "Jhoom"},
-  {name:"John Kabir", song: "Ami Akash Pathabo"}
+  {name:"John Kabir", song: "Ami Akash Pathabo"},
+  {name:"Balam", song: "Lukochuri"},
+  {name:"Momtaz", song: "Bookta Fiatta Jay"}
 ]; 
 
 function Person(props){
@@ -26,18 +30,20 @@ function Singer(props){
 }
 
 function App() {
-  const players = ["Mashrafi Bin Mortuza", "Sakib Al Hasan", "Mushfiqur Rahim"];
-  
 
   return (
     <div className="App">
-      {
-        players.map(player => <Person name={player} profession="Cricketer"></Person>)
-      }
-      {
-        signers.map(singer => <Singer name={singer.name} song={singer.song}></Singer>)
-      }
+      <div className="container players-cards">
+        {
+          players.map(player => <Person name={player} profession="Cricketer"></Person>)
+        }
+      </div>
 
+      <div className="container singer-cards">
+        {
+          signers.map(singer => <Singer name={singer.name} song={singer.song}></Singer>)
+        }
+      </div>
     </div>
   );
 }

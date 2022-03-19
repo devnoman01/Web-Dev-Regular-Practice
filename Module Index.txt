@@ -327,7 +327,7 @@ Module 45 React Core Concepts, JSX, props, state
 45-3    Create Component, return HTML from a component
 45-4    Pass dynamic data to components, props in react
 45-5    (advanced) Create multiple components from an array of objects
-45-6    
-45-7    
-45-8    
-45-9    
+45-6    Concept Recap, JSX, components, props, display array of objects
+45-7    (advanced) State, component state hook and set state method
+45-8    (advanced) Load dynamic data, API call useEffect integrate state
+45-9    Module Summary React Core Concepts recap
