@@ -1,0 +1,19 @@
+.country{
+    background-color: #282c34;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 12px;
+}
+.country > img{
+    width: 200px;
+}
+h2{
+    margin-top: 40px;
+}
+h4{
+    font-weight: 500;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}

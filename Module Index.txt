@@ -308,7 +308,7 @@ Module 29.5
 
 
 
-Module 44 Modern Front-end core concepts
+Module 44   Modern Front-end core concepts
 44-0	Milestone Overview
 44-1	Module overview and modern application core parts
 44-2	Web component, 4 type of component, identify component
@@ -321,7 +321,7 @@ Module 44 Modern Front-end core concepts
 44-9    Module Summary and concept recap
 
 
-Module 45 React Core Concepts, JSX, props, state
+Module 45   React Core Concepts, JSX, props, state
 45-1    Module Introduction, Create React App, 6 core concepts
 45-2    JSX, Dynamic content, Dynamic Style in React
 45-3    Create Component, return HTML from a component
@@ -331,3 +331,14 @@ Module 45 React Core Concepts, JSX, props, state
 45-7    (advanced) State, component state hook and set state method
 45-8    (advanced) Load dynamic data, API call useEffect integrate state
 45-9    Module Summary React Core Concepts recap
+
+Module 46   Simple React Rest Countries
+46-1    Module Introduction, load countries using useEffect
+46-2    Display countries in a simple way, Folder Structure
+46-3    React Extension Pack and component with css file
+46-4    Components inside the folder structure and connect them
+46-5    Create child component and pass data via props
+46-6    (advanced) Pass multiple data to a child component
+46-7    (advanced) add unique key for mapping components
+46-8    Build your react app and host your react app in Netlify
+46-9    Module Summary and recap use bootstrap in React
