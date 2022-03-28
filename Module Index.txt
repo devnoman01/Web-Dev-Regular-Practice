@@ -370,3 +370,24 @@ Module 47.5 Modules and data storage integration
 47.5-7  Remove data to the local storage and delete shopping cart
 47.5-8  Module Summary and simple intro to array reduce
 
+Module 48   Simple React SPA with simple e-commerce
+48-1    Module Introduction, site resources, figma
+48-2    Header Component, logo position, set nav menu
+48-3    Shop Component Layout, load data and set state
+48-4    Product Component, component layout, display data
+48-5    Style Product Cart, style debug and button position
+48-6    (advanced) set eventhandler, pass eventhandler to child
+48-7    (advanced) Cart state setup, update cart and total on click
+48-8    Install external packages, react-fontawesome, display icon
+48-9    Simple React SPA module summary
+
+Module 49   (advanced) Cart calculation, save and retrieve cart
+49-1    Module Introduction and simple ema-john recap
+49-2    Run Github clone react project, Create Cart Component
+49-3    Calculate shopping cart price, shipping and tax with toFixed
+49-4    Setting the cart data on the localStorage for future retrieve
+49-5    (advanced) Load cart from local storage, find product
+49-6    (advanced) Display local storage cart to the UI
+49-7    (super advanced) Handle quantity from storage to cart
+49-8    (advanced) Add to the cart with quantity and explanation
+49-5    Module summary, deploy, code recap
