@@ -348,3 +348,25 @@ Module 46.5 React Core Concept Recap and Practice
 46.5-2  Check out Event listener, useState inside components
 46.5-3  Load data using the useEffect and display data
 46.5-4  (optional) Avoid multiple react install due to slow internet
+
+Module 47   (Conceptual)How React Works
+47-1    Module Introduction Create React App under the hood
+47-2    What is JSX, React Component, Babel transpiler
+47-3    Components and how props works, unidirectional data flow
+47-4    
+47-5    How React Hook works, send state via props, props vs state
+47-6    What is React, when to use it, react vs angular vs vue
+47-7    How react works, render, virtual dom, diff algorithm, fiber
+47-8    React class component, component lifecycle and render
+47-9    Module summary, recap, properties vs attribute
+
+Module 47.5 Modules and data storage integration
+47.5-1  Module Introduction ES6 Modules simple import, export
+47.5-2  ES6 Modules, import default, relative path
+47.5-3  Create and Load Fake data, json generator, online api
+47.5-4  How to Create Event handler with parameters
+47.5-5  Intro to Local storage to store data just one item
+47.5-6  Store multiple data in an Object with local storage
+47.5-7  Remove data to the local storage and delete shopping cart
+47.5-8  Module Summary and simple intro to array reduce
+

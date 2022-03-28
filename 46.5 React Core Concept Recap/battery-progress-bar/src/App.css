@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 800px;
+}
+
+#projectbox{
+  padding-top: 100px;
+}
+
+.battery {
+  margin: 0 auto;
+  padding: 10px 10px;
+  width: 320px;
+  
+  border: solid thin #FFF;
+  position: relative;
+}
+
+.battery:after {
+  content: " ";
+  top: 30px;
+  right: -7px;
+  height: 20px;
+  width: 7px;
+  position: absolute;
+  background: #FFF;
+}
+.bar {
+  display: inline-block;
+  width: 0;
+  border: solid thin rgba(255, 255, 255, .1);
+  padding: 14px;
+  height: 30px;
+  margin: 1px;
+  /* background: transparent; */
+  background: limegreen;
+  transition: background 1s;
+}
+
+
+
+button{
+  cursor: pointer;
+  padding: 10px 15px;
+  margin: 50px 20px;
+  background: rgba(255, 255, 255, 0.193);
+  color: aliceblue;
+  border: 1px solid aliceblue;
+}
