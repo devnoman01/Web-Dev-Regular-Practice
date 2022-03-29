@@ -48,7 +48,6 @@ const MyLineChart = () => {
   ];
   return (
     <div>
-      <h1>React Rechart Sample</h1>
       <LineChart width={600} height={400} data={data}>
         <Line dataKey={"price"} stroke="#ff4444"></Line>
         <Line dataKey={"sales"} stroke="#0099CC"></Line>
