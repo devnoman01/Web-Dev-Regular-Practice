@@ -391,3 +391,36 @@ Module 49   (advanced) Cart calculation, save and retrieve cart
 49-7    (super advanced) Handle quantity from storage to cart
 49-8    (advanced) Add to the cart with quantity and explanation
 49-5    Module summary, deploy, code recap
+
+Module 51   React Bootstrap, Tailwind CSS, Axios, Rechart
+51-1    Module Introduction Use Bootstrap CDN in React
+51-2    Install React Bootstrap in your react application
+51-3    Setup tailwind css with Create React App
+51-4    Responsive Navbar using react and tailwind
+51-5    Simple Pricing Option using React and Tailwind
+51-6    Responsive pricing card with Tailwind and Hero icons
+51-7    Use reachart to draw any type of chart using React
+51-8    Axios, data extraction and data processing bar chart
+51-9    Module Summary and react spring animation
+
+Module 52   Simple React Router Examples
+52-1    Module Introduction, install React Router, Project Setup
+52-2    Create Simple Route and simple router setup
+52-3    Load Users, display users, dynamic link, use Navigate
+52-4    Set Header, Nav, Create Link, display active route
+52-5    Recap Router, route, path, component, not found, link
+52-6    Create route with some fixed and some dynamic part
+52-7    React route parameter and load data based on dynamic route
+52-8    (advanced) Nested route with useEffect dependency Injection
+52-9    Module Summary and Recap React Route for Rest Countries
+
+Module 53   ema-john with router and custom hook
+53-1    
+53-2    
+53-3    
+53-4    
+53-5    
+53-6    
+53-7    
+53-8    
+53-9    
