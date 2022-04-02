@@ -415,12 +415,23 @@ Module 52   Simple React Router Examples
 52-9    Module Summary and Recap React Route for Rest Countries
 
 Module 53   ema-john with router and custom hook
-53-1    
-53-2    
-53-3    
-53-4    
-53-5    
-53-6    
-53-7    
-53-8    
-53-9    
+53-1    Install React router and implement simple router setup
+53-2    Recap React Router setup and intro to order review page
+53-3    Write useState and useEffect in a different file and import it
+53-4    Create useCart with products dependency and use it
+53-5    Create review page structure and Display Shopping cart
+53-6    Implement Review Item style with a lot of flex
+53-7    More style of Review item and apply Remove Item handler
+53-8    Make Data consistent across UI and explore children props
+53-9    Module Summary, use navigate and recap custom hook
+
+Module 54   Router deploy, Simple Context API, devtool
+54-1    Another Recap of React Router Setup
+54-2    Recap Custom hook and load t-shirt data
+54-3    Recap Remove from cart and not allow duplicate
+54-4    Explore 4 ways to add Conditional Rendering in React
+54-5    Grandfather Create a Family Tree and share same data
+54-6    Prop Drilling to pass data to a many level components
+54-7    Simple Introduction to Context API to avoid Prop drilling
+54-8    Recap Context API and introduction to react dev tool
+54-9    Deploy react router project and fix router reload issue
