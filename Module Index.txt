@@ -435,3 +435,23 @@ Module 54   Router deploy, Simple Context API, devtool
 54-7    Simple Introduction to Context API to avoid Prop drilling
 54-8    Recap Context API and introduction to react dev tool
 54-9    Deploy react router project and fix router reload issue
+
+Module 56   Simple React Firebase Authentication
+56-1    Module Introduction, authentication vs Authorization
+56-2    Create firebase project and Install Firebase SDK
+56-3    Set Firebase configuration and initialize firebase auth
+56-4    Sign in with google, open google login popup
+56-5    Recap google popup sign in process with 11 steps
+56-6    Display logged in user info, Sign out, toggle sign in, sign out
+56-7    Implement github login system
+56-8    Module Summary and display user info
+
+Module 57   Email Password Authentication, Login Form
+57-1    Login, Registration, Sign up, Sign in, project setup
+57-2    Simple form, input, change, blur, submit, preventDefault
+57-3    Use Bootstrap Form and get user email and password
+57-4    Create new user using email and password on firebase
+57-5    Login form field validation using regular expression, show error
+57-6    Toggle Registration and login, implement sign in with email password
+57-7    Handle Email Verification, Forget Password or Reset Password
+57-8    Module Summary and Update user name to firebase
