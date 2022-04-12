@@ -455,3 +455,24 @@ Module 57   Email Password Authentication, Login Form
 57-6    Toggle Registration and login, implement sign in with email password
 57-7    Handle Email Verification, Forget Password or Reset Password
 57-8    Module Summary and Update user name to firebase
+
+Module 58   React Auth Integration and Private Route
+58-1    Module Introduction and Basic Project Setup
+58-2    Create Use Firebase hook for shared authentication
+58-3    Add Google Sign using custom hook with on State change
+58-4    Implement Sign out and display user logged in user name
+58-5    Explore and install React Firebase Hooks
+58-6    Use React Firebase Hook to manage user authentication
+58-7    Introduction to Protected Route and Require Auth
+58-8    Module summary and Implement Auth Redirect
+
+Module 59   Private Route Recap with Ema-John
+59-1    Module Introduction firebase setup and git clone
+59-2    Create Login component and style Login form
+59-3    Style sign up component and access email, password
+59-4    Install React firebase hook implement create user
+59-5    Implement Login and redirect user after login
+59-6    Create Require Auth and Navigate from location
+59-7    Implement Sign out and Create a shipment form
+59-8    Module Summary and list to implement auth
+59-9    Host your react app to firebase
