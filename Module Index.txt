@@ -476,3 +476,5 @@ Module 59   Private Route Recap with Ema-John
 59-7    Implement Sign out and Create a shipment form
 59-8    Module Summary and list to implement auth
 59-9    Host your react app to firebase
+
+Module 60
